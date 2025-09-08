@@ -54,10 +54,14 @@ traversed_path = dfs(graph, start, visited, path)
 print("DFS Traversal Path:", traversed_path)
 ```
 
-### Sample Input:<img width="641" height="153" alt="image" src="https://github.com/user-attachments/assets/f88a64ac-c6b6-4330-be82-bc331b576a4d" />
+### Sample Input:
+
+<img width="641" height="153" alt="image" src="https://github.com/user-attachments/assets/f88a64ac-c6b6-4330-be82-bc331b576a4d" />
 
 
-### Sample Output:<img width="971" height="56" alt="image" src="https://github.com/user-attachments/assets/1383f40e-a75c-4fbe-b5f9-d77f7164420a" />
+### Sample Output:
+
+<img width="971" height="56" alt="image" src="https://github.com/user-attachments/assets/1383f40e-a75c-4fbe-b5f9-d77f7164420a" />
 
 
 **Result:**
